@@ -1,0 +1,30 @@
+body{
+    margin: 20px;
+    text-align: center;
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.avatar{
+    width: 150px;
+}
+
+.card{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(203, 149, 0, 0.402);
+    border-bottom: 5px solid black;
+    color: black;
+    margin: 0 auto;
+
+}
+
+
+
+/* .plan{
+    display: flex;
+} */
